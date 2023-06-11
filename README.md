@@ -25,6 +25,7 @@ You will be creating a "coinage" code module that is capable of calculating the 
 Project 4.   https://github.com/darrylduck/cit281-p4
 
 You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb.
+
 Project 5
 
 For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
