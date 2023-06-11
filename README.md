@@ -9,7 +9,7 @@ Use the ping command, and practice using the break keyboard sequence
 Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 Requirements
 
-Project 2
+Project 2.    https://github.com/darrylduck/cit281-p2
 
 Project elements:
 Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
