@@ -1,6 +1,6 @@
 CIT 281 LIST OF PROJECTS/LABS
 
-Project 1
+Project 1. https://github.com/darrylduck/cit281-p1
 
 Project elements:
 Use the command line interface (CLI) of your operating system to create a number of folders
