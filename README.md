@@ -52,7 +52,7 @@ Part 3: Practice terminal or shell commands
 Part 4: Practice keyboard shortcuts
 Part 5: Create your first Node.js server-side JavaScript file
 
-Lab 2
+Lab 2.  https://github.com/darrylduck/cit281-lab02
 
 Lab goals and outcomes:
 Use CLI commands for directory and file manipulation
