@@ -90,7 +90,7 @@ Part 4: Add git repo, exclude node_modules folder from git, make commits
 Part 5: Fix MIME error, test, and commit
 Part 6: Add a second route with query parameters, test, and commit
 
-Lab 5
+Lab 5.  https://github.com/darrylduck/cit281-lab05
 
 Lab goals and outcomes:
 Part 1: Download and install Postman
@@ -101,7 +101,7 @@ Part 5: Use Postman to test server GET routes
 Part 6: Add POST handling to server application and respond with JSON
 Part 7: Use Postman and POST request
 
-Lab 6
+Lab 6. https://github.com/darrylduck/cit281-lab06
 
 Lab goals and outcomes:
 Part 1: Join GitHub and work through Introduction to GitHub course
@@ -112,7 +112,7 @@ Part 5: Create and test Library class
 Part 6: Add at least two more books to the library
 Part 7: Add ISBN and a delete book method
 
-Lab 7
+Lab 7.  https://github.com/darrylduck/cit281-lab07
 
 Lab goals and outcomes:
 Part 1: Create your own GitHub organization for the CIT Minor
@@ -122,7 +122,7 @@ Part 4: Create lab JavaScript file, and initialize folder as a Node.js folder
 Part 5: Update and commit lab JavaScript file to practice with error handling
 Part 6: Push your changes to GitHub
 
-Lab 8
+Lab 8.   https://github.com/darrylduck/cit281-lab08
 
 Lab goals and outcomes:
 Part 1: Create lab file and initialize Node.js folder
@@ -131,7 +131,7 @@ Part 3: Add fastify starter code
 Part 4: Add fastify and node-fetch require statements
 Part 5: Fetch JSONPlaceholder data
 
-Lab 9
+Lab 9.   
 
 Lab goals and outcomes:
 Part 1: Create Learning Lab course/repo within your GitHub account
