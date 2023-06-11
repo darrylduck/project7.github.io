@@ -137,3 +137,9 @@ Part 1: Create Learning Lab course/repo within your GitHub account
 Part 2: Practice exiting and returning to the course from course repo
 Part 3: Work through course
 Part 4: Download completed course repo as deliverable
+
+
+
+
+![image](https://github.com/darrylduck/project7.github.io/assets/134247676/6f2fc43a-2fc4-40e0-bd51-c84a6e2449e0)
+
