@@ -68,7 +68,7 @@ Part 7: Cloning cloud repos locally
 Part 8: Branch
 Part 9: Repo files
 
-Lab 3
+Lab 3.  https://github.com/darrylduck/cit281-lab03
 
 Lab goals and outcomes:
 Practice refactoring JavaScript code to use more modern syntax
