@@ -30,12 +30,12 @@ Project 5
 
 For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
-Project 6
+Project 6.   https://github.com/darrylduck/cit281-p6
 
 You will be creating three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class.
 The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value.
 
-Project 7
+Project 7.    https://github.com/darrylduck/cit281-p7
 
 Rather than a final coding project, this project consists of creating an initial version of your CIT Minor portfolio using GitHub Pages. This project includes:
 Creating either an organization-level or user-level GitHub Page, and adding content to this Page. This Page will be the entry web page for your portfolio.
