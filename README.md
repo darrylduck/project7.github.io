@@ -43,7 +43,7 @@ Creating repos for each of the labs and projects for the CIT 281 class
 Creating a GitHub Page for each of the labs and projects that provides a brief description of the lab or project, and a screen capture
 Adding links to the organization or user Page to each of the labs and projects
 
-Lab 1
+Lab 1.  https://github.com/darrylduck/cit281-lab01
 
 Lab goals and outcomes:
 Part 1: Install and setup your personal computer with the software tools required for this course
