@@ -80,7 +80,7 @@ Practice creating a Node.js compatible code module using module.exports
 Practice importing a Node.js compatible code module using require
 Examine code using the spread operator
 
-Lab 4
+Lab 4.  https://github.com/darrylduck/cit281-lab-04
 
 Lab goals and outcomes:
 Part 1: Create initial Fastify Node.js web server
